@@ -9,7 +9,7 @@ import "./style.css";
 // const btn = document.getElementById("btn");
 // fromEvent(btn, "click")
 //   .pipe(
-//     throttleTime(1000), // implemnet first click and next click is implemented after 5 secs and repeat
+//     throttleTime(1000), // implemnet first click and next click is implemented after 1 secs and repeat
 //     scan((cnt) => cnt + 1, 0) // like reduce
 //   )
 //   .subscribe((v) => console.log("Clicked" + v + "times"));
